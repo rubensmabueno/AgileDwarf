@@ -1,0 +1,43 @@
+pt-BR:
+  label_menu_sprints: Sprints
+  label_menu_mytasks: Tarefas
+  label_menu_burndown: Rodas gráficos
+  label_burndown_series_spent: Tempo gasto
+  label_burndown_series_rest: Estimativa restante
+  label_burndown_series_total: Total
+  label_burndown_axis_y_name: Horas
+  label_backlog: Backlog
+  label_estimated: "Estimado para "
+  label_task_field_description_empty: Sem descrição
+  label_sprints_placeholder_name: "Sprint "
+  label_sprints_placeholder_startdate: "[Data de início]"
+  label_sprints_placeholder_enddate: "[Data final]"
+  label_sprints_placeholder_estimated: "[Estimado]"
+  label_sprints_placeholder_subject: "[Assunto]"
+  label_sprints_placeholder_owner: "[Dono]"
+  label_sprints_placeholder_done: "[Taxa de finalizado]"
+  label_sprints_placeholder_desc: "[Descrição]"
+  label_sprints_description_panel_header: Descrição
+  label_sprints_select_all: Todos
+  label_sprints_select_none: Não está em sprint
+  label_sprints_showclosed: Mostrar sprints fechadas
+  label_sprints_filter: Mostrar sprint
+  label_sprints_title_fold: Desdobramento
+  label_sprints_title_add_task: Adicionar tarefa
+  label_sprints_title_add_sprint: Adicionar sprint
+  label_sprints_title_close: Fechar sprint
+  label_sprints_dialogs_closeerror_title: Não pode fechar este sprint
+  label_sprints_dialogs_closeerror_content: Você pode apenas fechar sprints com todas as tarefas resolvidas.
+  label_sprints_dialogs_closeconfirm_title: Confirmação de fechamento
+  label_sprints_dialogs_closeconfirm_content: Você quer realmente fechar esse sprint? De qualquer modo você pode, a qualquer momento, ver todos os sprints, incluindo os fechados.
+  label_tasks_select_user_current: Eu
+  label_tasks_select_user_all: Todos
+  label_settings_tracker: Tracker padrão para novas tarefas
+  label_settings_activity: Atividade padrão para tempo gasto
+  label_settings_closedstatus: Status, que marca a tarefa como fechada
+  label_settings_column1status: Status da tarefa da 1 coluna
+  label_settings_column2status: Status da tarefa da 2 coluna
+  label_settings_column3status: Status da tarefa da 3 coluna
+  label_settings_column4status: Status da tarefa da 4 coluna
+  label_settings_column5status: Status da tarefa da 5 coluna
+  label_settings_columncount: Número de colunas
