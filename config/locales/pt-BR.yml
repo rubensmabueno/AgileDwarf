@@ -1,7 +1,7 @@
 pt-BR:
   label_menu_sprints: Sprints
   label_menu_mytasks: Tarefas
-  label_menu_burndown: Rodas gráficos
+  label_menu_burndown: Gráficos
   label_burndown_series_spent: Tempo gasto
   label_burndown_series_rest: Estimativa restante
   label_burndown_series_total: Total
